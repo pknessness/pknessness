@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Anshal Jain, I am studying Computer Engineering at UCSD. 
-I currently work for the university as a software developer, and am part of three research projects in that capacity.
+I currently work for the university as a software engineer, and am part of three research projects in that capacity.
 
 I know C++, C, C#, Python, Java, Javascript, HTML, and Matlab.
 
