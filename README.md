@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Anshal Jain, I am studying Computer Engineering at UCSD. 
-I currently work for the university as a software engineer, and am part of three research projects in that capacity.
-
-I know C++, C, C#, Python, Java, Javascript, HTML, and Matlab.
-
-I am also the Lead of the Embedded division of UCSD's robotics team, Triton Robotics.
